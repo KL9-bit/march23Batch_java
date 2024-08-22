@@ -3,7 +3,7 @@ package logicprograms;
 public class CountNumberOfWhiteSpace {
 	public static void main(String[] args) {
 		
-		String s= "V el o c i ty";
+		String s= "V el o     c i ty";
 		int count =0;
 		for(int i=0; i<=s.length()-1;i++) 
 		   {
