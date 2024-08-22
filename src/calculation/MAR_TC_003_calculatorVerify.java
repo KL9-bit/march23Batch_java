@@ -7,6 +7,7 @@ public class MAR_TC_003_calculatorVerify {
 			
 			
 		System.out.println("calculator is verified");
+		System.out.println("Added one more calculator is verified");
 		
 		}
 	}
